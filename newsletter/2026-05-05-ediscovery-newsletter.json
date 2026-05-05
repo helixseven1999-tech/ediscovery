@@ -1,0 +1,115 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Helix/ediscovery/main/schemas/newsletter-issue-v1.json",
+  "id": "newsletter-2026-05-05",
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T22:00:00Z",
+  "title": "eDiscovery Daily Newsletter - May 5, 2026",
+  "summary": "Today's top stories in legal technology and eDiscovery: open-source legal AI tools, Microsoft's Word Legal Agent, major funding rounds, and law firm AI deployments.",
+  "stories": [
+    {
+      "id": "story-1",
+      "title": "Mike OSS: Open source legal AI tool \"changes the negotiation\"",
+      "source": "Legal IT Insider",
+      "source_url": "https://legaltechnology.com/2026/05/05/mike-oss-open-source-legal-ai-tool-changes-the-negotiation/",
+      "published_date": "2026-05-05",
+      "author": "Caroline Hill",
+      "category": "Gen AI",
+      "summary": "An open-source legal AI tool vibe coded by former Latham & Watkins associate William Chen may change end users negotiation power. The tool represents a significant shift toward democratizing legal AI capabilities, potentially leveling the playing field for smaller firms and individual practitioners.",
+      "key_points": [
+        "Open-source approach enables broader access to legal AI tools",
+        "Created by former BigLaw associate William Chen",
+        "Focuses on negotiation assistance for end users",
+        "Represents shift toward democratizing legal technology"
+      ],
+      "relevance": "Open-source legal AI tools could significantly impact eDiscovery by providing cost-effective alternatives for document review and analysis, particularly for smaller firms and corporate legal departments."
+    },
+    {
+      "id": "story-2",
+      "title": "Microsoft turns up to its own fight with new Word Legal Agent",
+      "source": "Legal IT Insider",
+      "source_url": "https://legaltechnology.com/2026/05/01/microsoft-turns-up-to-its-own-fight-with-new-word-legal-agent/",
+      "published_date": "2026-05-01",
+      "author": "Caroline Hill",
+      "category": "Gen AI",
+      "summary": "Microsoft has entered the legal AI space with a new Word Legal Agent, bringing the tech giant directly into competition with specialized legal AI providers. The move signals Microsoft's commitment to the legal technology market.",
+      "key_points": [
+        "Microsoft launches Word Legal Agent for legal document work",
+        "Direct competition with specialized legal AI tools",
+        "Leverages Microsoft's existing Office 365 ecosystem",
+        "Could accelerate AI adoption in legal departments"
+      ],
+      "relevance": "Integration of AI directly into Microsoft Word could streamline document creation and review processes in litigation, potentially affecting how eDiscovery documents are prepared and analyzed."
+    },
+    {
+      "id": "story-3",
+      "title": "Legora raises $50m Series D extension: Atlassian and Nvidia Fund join as investors",
+      "source": "Legal IT Insider",
+      "source_url": "https://legaltechnology.com/2026/04/30/legora-raises-50m-series-d-extension-atlassian-and-nvidia-fund-join-as-investors/",
+      "published_date": "2026-04-30",
+      "author": "Caroline Hill",
+      "category": "Legal Operations",
+      "summary": "Legora has secured $50 million in a Series D extension round with Atlassian and Nvidia Fund joining as investors. The funding round underscores continued investor confidence in legal AI platforms despite market volatility.",
+      "key_points": [
+        "$50 million Series D extension raised",
+        "Atlassian and Nvidia Fund join as new investors",
+        "Signals continued investment in legal AI sector",
+        "Positions Legora for expanded market presence"
+      ],
+      "relevance": "Major funding rounds for legal AI companies indicate strong market confidence and will likely accelerate development of eDiscovery and legal technology tools."
+    },
+    {
+      "id": "story-4",
+      "title": "Slaughter and May goes firmwide with Harvey",
+      "source": "Legal IT Insider",
+      "source_url": "https://legaltechnology.com/2026/04/30/slaughter-and-may-goes-firmwide-with-harvey/",
+      "published_date": "2026-04-30",
+      "author": "Caroline Hill",
+      "category": "Gen AI",
+      "summary": "Magic Circle firm Slaughter and May has deployed Harvey AI across the entire firm following a successful pilot program. The firmwide rollout represents one of the most significant AI deployments at a major international law firm.",
+      "key_points": [
+        "Firmwide deployment of Harvey AI at Slaughter and May",
+        "Follows successful pilot program",
+        "One of the largest AI deployments at a Magic Circle firm",
+        "Sets precedent for other major law firms"
+      ],
+      "relevance": "Major law firm AI deployments validate the technology for legal work and may influence adoption patterns in eDiscovery and litigation support functions."
+    },
+    {
+      "id": "story-5",
+      "title": "eDiscovery Landscape Survey 2026",
+      "source": "Nextpoint",
+      "source_url": "https://www.nextpoint.com/ediscovery-blog/ediscovery-landscape-survey-2026/",
+      "published_date": "2026-04-29",
+      "author": "Nextpoint",
+      "category": "Industry Survey",
+      "summary": "Nextpoint has released its comprehensive eDiscovery Landscape Survey for 2026, providing insights into current trends, challenges, and technology adoption patterns across the eDiscovery industry.",
+      "key_points": [
+        "Comprehensive industry survey results",
+        "Insights into eDiscovery technology adoption",
+        "Analysis of current challenges facing practitioners",
+        "Trends shaping the future of eDiscovery"
+      ],
+      "relevance": "Industry surveys provide valuable benchmarking data for eDiscovery professionals and inform strategic decisions about technology investments and process improvements."
+    }
+  ],
+  "metadata": {
+    "sources_checked": [
+      "https://ediscoverytoday.com/",
+      "https://legaltechnology.com/",
+      "https://edrm.net/",
+      "https://www.nextpoint.com/ediscovery-blog/",
+      "https://aceds.org/aceds-blog/"
+    ],
+    "sources_accessible": [
+      "https://legaltechnology.com/",
+      "https://www.nextpoint.com/ediscovery-blog/"
+    ],
+    "sources_blocked": [
+      "https://ediscoverytoday.com/ (Cloudflare)",
+      "https://edrm.net/ (Cloudflare)",
+      "https://aceds.org/ (Cloudflare)"
+    ],
+    "story_count": 5,
+    "workflow_version": "1.0"
+  }
+}
