@@ -1,0 +1,103 @@
+{
+  "newsletter_type": "ediscovery-daily",
+  "version": "newsletter-issue-v1",
+  "issue_date": "2026-05-06",
+  "generated_at": "2026-05-06T22:00:00Z",
+  "summary": "Today's eDiscovery newsletter covers IoT forensics best practices, AI verification requirements for lawyers, market intelligence on eDiscovery software growth, CISA's critical infrastructure guidance, and insights from high-profile eDiscovery cases.",
+  "story_count": 5,
+  "stories": [
+    {
+      "headline": "Spot the Spoof in this Post About IoT Forensics: Forensics Best Practices",
+      "source": "eDiscovery Today",
+      "source_url": "https://ediscoverytoday.com",
+      "article_url": "https://ediscoverytoday.com/2026/05/06/spot-the-spoof-in-this-post-about-iot-forensics-forensics-best-practices/",
+      "published_date": "2026-05-06",
+      "author": "Doug Austin",
+      "category": "Digital Forensics",
+      "summary": "Melinda Redenius at Veracity Forensics provides three Internet of Things (IoT) scenarios – two real, one fake – challenging readers to identify the fabricated scenario. This interactive approach highlights the growing importance of IoT forensics in legal proceedings.",
+      "key_points": [
+        "IoT devices are increasingly relevant in litigation and investigations",
+        "Understanding authentic vs. fabricated IoT evidence is crucial for practitioners",
+        "Interactive forensics exercises help build practical skills"
+      ]
+    },
+    {
+      "headline": "From Depp-Heard to Epstein: My Interview on the Data Xposure Podcast: eDiscovery Trends",
+      "source": "eDiscovery Today",
+      "source_url": "https://ediscoverytoday.com",
+      "article_url": "https://ediscoverytoday.com/2026/05/06/from-depp-heard-to-epstein-my-interview-on-the-data-xposure-podcast-ediscovery-trends/",
+      "published_date": "2026-05-06",
+      "author": "Doug Austin",
+      "category": "Industry Insights",
+      "summary": "Doug Austin discusses the impact of eDiscovery in high-profile cases ranging from the Depp-Heard trial to the Epstein documents in an interview with Mike Hamilton of Exterro on the Data Xposure podcast.",
+      "key_points": [
+        "High-profile cases demonstrate the critical role of eDiscovery in modern litigation",
+        "Podcast interview covers practical insights from major eDiscovery events",
+        "Discussion bridges entertainment industry and complex legal document handling"
+      ]
+    },
+    {
+      "headline": "States Are Requiring Lawyers to Verify AI Outputs. Will it Help?: Artificial Intelligence Trends",
+      "source": "eDiscovery Today",
+      "source_url": "https://ediscoverytoday.com",
+      "article_url": "https://ediscoverytoday.com/2026/05/06/states-are-requiring-lawyers-to-verify-ai-outputs-will-it-help-artificial-intelligence-trends/",
+      "published_date": "2026-05-06",
+      "author": "Doug Austin",
+      "category": "AI & Legal Technology",
+      "summary": "A growing trend sees states implementing requirements for lawyers to verify AI-generated outputs. The article examines whether these regulations will effectively address hallucinated citations and AI-related errors in legal work.",
+      "key_points": [
+        "Multiple states now require attorney verification of AI outputs",
+        "Concerns remain about effectiveness in preventing hallucinated citations",
+        "Regulatory landscape evolving to address AI risks in legal practice"
+      ]
+    },
+    {
+      "headline": "CISA's CI Fortify Rewrites the Disconnection Playbook for Critical Infrastructure",
+      "source": "Complex Discovery",
+      "source_url": "https://complexdiscovery.com",
+      "article_url": "https://complexdiscovery.com/cisas-ci-fortify-rewrites-the-disconnection-playbook-for-critical-infrastructure/",
+      "published_date": "2026-05-06",
+      "author": "Complex Discovery OÜ",
+      "category": "Cybersecurity & Compliance",
+      "summary": "CISA's new CI Fortify initiative instructs U.S. critical infrastructure operators to plan for weeks or months of disconnected operations. This significantly reshapes vendor-risk diligence and preservation strategy across regulated sectors.",
+      "key_points": [
+        "CI Fortify requires planning for extended disconnected operations",
+        "Impacts vendor-risk assessment and preservation obligations",
+        "Critical infrastructure operators face new compliance requirements"
+      ]
+    },
+    {
+      "headline": "Market Intelligence: The eDiscovery Software Market from 2025 to 2030",
+      "source": "Complex Discovery",
+      "source_url": "https://complexdiscovery.com",
+      "article_url": "https://complexdiscovery.com/market-intelligence-the-ediscovery-software-market-from-2025-to-2030/",
+      "published_date": "2026-05-06",
+      "author": "Complex Discovery OÜ",
+      "category": "Market Analysis",
+      "summary": "Worldwide eDiscovery software spending grows from $6.67 billion in 2025 to a projected $10.95 billion in 2030 at a reconciled 10.41 percent CAGR – the fastest-growing segment in eDiscovery. Cloud-native, AI-enabled platforms continue to drive market expansion.",
+      "key_points": [
+        "eDiscovery software market projected to reach $10.95B by 2030",
+        "10.41% CAGR outpaces services growth by 4.66 percentage points",
+        "Cloud-native, AI-enabled platforms lead vendor differentiation",
+        "AI governance and model transparency emerging as procurement criteria"
+      ]
+    }
+  ],
+  "sources_consulted": [
+    {
+      "name": "eDiscovery Today",
+      "url": "https://ediscoverytoday.com",
+      "articles_found": 3
+    },
+    {
+      "name": "Complex Discovery",
+      "url": "https://complexdiscovery.com",
+      "articles_found": 2
+    }
+  ],
+  "metadata": {
+    "generated_by": "Helix-7",
+    "workflow": "ediscovery-newsletter-daily",
+    "edition": "6PM ET"
+  }
+}
