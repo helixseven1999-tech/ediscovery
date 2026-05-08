@@ -1,0 +1,108 @@
+{
+  "newsletter_type": "newsletter-issue-v1",
+  "issue_date": "2026-05-08",
+  "issue_time": "18:00:00",
+  "timezone": "America/New_York",
+  "title": "eDiscovery Daily Newsletter - May 8, 2026",
+  "summary": "Today's top eDiscovery stories covering AI frameworks, court decisions, industry surveys, and professional development opportunities.",
+  "stories": [
+    {
+      "id": 1,
+      "title": "EDRM's New AI Framework: A Game Changer for eDiscovery",
+      "source": "eDiscovery Today",
+      "source_url": "https://ediscoverytoday.com",
+      "article_url": "https://ediscoverytoday.com/2026/05/06/edrms-new-ai-framework-a-game-changer-for-ediscovery/",
+      "published_date": "2026-05-06",
+      "category": "Industry Standards",
+      "summary": "EDRM has released a comprehensive AI Framework designed to standardize how artificial intelligence is applied in eDiscovery workflows. The framework provides guidelines for AI transparency, validation, and ethical use in legal proceedings.",
+      "key_points": [
+        "New framework addresses AI transparency requirements",
+        "Provides validation protocols for AI-assisted document review",
+        "Establishes ethical guidelines for AI use in litigation",
+        "Aims to standardize AI adoption across the legal industry"
+      ],
+      "why_it_matters": "This framework represents a significant step toward standardizing AI use in eDiscovery, addressing growing concerns about transparency and reliability in court proceedings."
+    },
+    {
+      "id": 2,
+      "title": "AI in eDiscovery: The Courts Weigh In",
+      "source": "eDiscovery Today",
+      "source_url": "https://ediscoverytoday.com",
+      "article_url": "https://ediscoverytoday.com/2026/05/05/ai-in-ediscovery-the-courts-weigh-in/",
+      "published_date": "2026-05-05",
+      "category": "Legal Developments",
+      "summary": "Recent court decisions are shaping how AI tools can be used in eDiscovery, with judges addressing questions of reliability, transparency, and admissibility of AI-processed evidence.",
+      "key_points": [
+        "Courts increasingly requiring disclosure of AI use in document review",
+        "New standards emerging for AI-processed evidence admissibility",
+        "Judges balancing efficiency gains against due process concerns",
+        "Guidance developing on AI tool validation requirements"
+      ],
+      "why_it_matters": "Legal practitioners need to understand evolving court standards for AI use to ensure compliance and protect client interests."
+    },
+    {
+      "id": 3,
+      "title": "eDiscovery Landscape Survey 2026: Resource Gap at Heart of Litigation Practice",
+      "source": "Nextpoint eDiscovery Blog",
+      "source_url": "https://www.nextpoint.com/ediscovery-blog/",
+      "article_url": "https://www.nextpoint.com/ediscovery-blog/ediscovery-landscape-survey-2026/",
+      "published_date": "2026-05-05",
+      "category": "Industry Research",
+      "summary": "The Nextpoint eDiscovery Landscape survey reveals a critical resource gap in modern litigation practice, with over 100 legal professionals identifying key challenges holding eDiscovery back in 2026.",
+      "key_points": [
+        "Survey gathered insights from 100+ legal professionals",
+        "Resource constraints identified as primary barrier to effective eDiscovery",
+        "Data volume growth outpacing organizational capacity",
+        "Technology adoption varies significantly across firm sizes"
+      ],
+      "why_it_matters": "Understanding industry-wide challenges helps organizations prioritize investments and improve eDiscovery efficiency."
+    },
+    {
+      "id": 4,
+      "title": "AI's Impact on Legal Today: Touro Law Review Symposium - May 21, 2026",
+      "source": "eDiscovery Today",
+      "source_url": "https://ediscoverytoday.com",
+      "article_url": "https://ediscoverytoday.com/2026/05/07/ais-impact-on-legal-today-touro-law-review-symposium-may-21-2026/",
+      "published_date": "2026-05-07",
+      "category": "Events",
+      "summary": "Touro Law Review is hosting a symposium on May 21, 2026, examining AI's impact on legal practice, featuring discussions on eDiscovery, legal research, and the future of legal technology.",
+      "key_points": [
+        "Symposium scheduled for May 21, 2026",
+        "Focus on practical AI applications in legal practice",
+        "Discussion of AI's impact on eDiscovery workflows",
+        "Academic and practitioner perspectives on legal AI evolution"
+      ],
+      "why_it_matters": "Professional development opportunities like this help practitioners stay current with rapidly evolving AI capabilities and legal implications."
+    },
+    {
+      "id": 5,
+      "title": "AI for the Rest of Us: Advantages and Challenges for Small and Mid-Size Firms",
+      "source": "Nextpoint eDiscovery Blog",
+      "source_url": "https://www.nextpoint.com/ediscovery-blog/",
+      "article_url": "https://www.nextpoint.com/ediscovery-blog/ai-for-small-mid-size-law-firms/",
+      "published_date": "2026-05-04",
+      "category": "Technology Adoption",
+      "summary": "An examination of how smaller legal practices can leverage AI technology, addressing both the opportunities for competitive advantage and the challenges of implementation with limited resources.",
+      "key_points": [
+        "Small and mid-size firms face unique AI adoption challenges",
+        "Cost-effective AI solutions increasingly available",
+        "Training and integration remain key hurdles",
+        "Competitive pressure driving AI adoption across firm sizes"
+      ],
+      "why_it_matters": "Smaller firms represent a significant portion of legal practice, and their successful AI adoption impacts overall access to justice and legal service delivery."
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-08T22:00:00Z",
+    "sources_checked": [
+      "https://ediscoverytoday.com",
+      "https://edrm.net",
+      "https://www.nextpoint.com/ediscovery-blog/",
+      "https://aceds.org",
+      "https://legaltechnology.com"
+    ],
+    "total_sources_available": 5,
+    "sources_with_updates": 3,
+    "workflow_version": "newsletter-issue-v1"
+  }
+}
