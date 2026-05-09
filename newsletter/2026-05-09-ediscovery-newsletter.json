@@ -1,0 +1,114 @@
+{
+  "newsletter_type": "eDiscovery Daily Newsletter",
+  "issue_version": "v1",
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T22:00:00Z",
+  "summary": "Today's eDiscovery news covers generative AI realities in e-discovery, a new attorney-built AI platform launch, Microsoft's legal AI tool introduction, a Kroll case study on AI-enhanced defensibility, and insights on lawyer AI trust issues.",
+  "stories": [
+    {
+      "id": 1,
+      "headline": "Ground Truth: The Realities of Generative AI in E-Discovery",
+      "source": "Law.com",
+      "source_url": "https://www.law.com/2026/05/08/ground-truth-the-realities-of-generative-ai-in-e-discovery/",
+      "published_date": "2026-05-08",
+      "category": "AI & Technology",
+      "summary": "An in-depth examination of how generative AI is actually performing in e-discovery workflows, separating hype from reality. The article explores practical implementations, success rates, and limitations that legal professionals need to understand.",
+      "key_points": [
+        "Generative AI tools are showing promise in document review but require human oversight",
+        "Accuracy rates vary significantly depending on document types and use cases",
+        "Cost-benefit analysis reveals nuanced ROI compared to traditional TAR",
+        "Best practices emerging for defensible AI use in litigation"
+      ],
+      "relevance_score": "high",
+      "tags": ["generative-ai", "e-discovery", "document-review", "litigation-technology"]
+    },
+    {
+      "id": 2,
+      "headline": "DocumentReview.Law Launches Attorney-Built AI Platform for Everyday Lawyers",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com/news-releases/documentreviewlaw-launches-attorney-built-ai-platform-the-fast-secure-and-affordable-legal-ediscovery-tool-for-everyday-lawyers-301754001.html",
+      "published_date": "2026-05-04",
+      "category": "Product Launch",
+      "summary": "A new AI-powered document review platform built by practicing attorneys aims to make e-discovery more accessible and affordable for smaller firms and solo practitioners. The platform emphasizes security, ease of use, and cost-effectiveness.",
+      "key_points": [
+        "Platform designed by attorneys with practical workflow experience",
+        "Focus on security with SOC 2 compliance and encryption",
+        "Affordable pricing model targeting small and mid-size firms",
+        "Features include AI-assisted review, production, and case management integration"
+      ],
+      "relevance_score": "high",
+      "tags": ["ai-platform", "document-review", "small-firm", "product-launch", "legal-tech"]
+    },
+    {
+      "id": 3,
+      "headline": "Microsoft Introduces New Legal Artificial Intelligence Tool",
+      "source": "ABA Journal",
+      "source_url": "https://www.abajournal.com/news/article/microsoft-introduces-new-legal-artificial-intelligence-tool",
+      "published_date": "2026-05-01",
+      "category": "Enterprise Technology",
+      "summary": "Microsoft announces expansion of its AI capabilities into the legal sector with a new tool designed to assist legal professionals with document analysis, contract review, and discovery workflows. The move signals major tech companies' growing interest in legal technology.",
+      "key_points": [
+        "Microsoft leveraging Azure AI infrastructure for legal applications",
+        "Integration with Microsoft 365 and existing legal workflows",
+        "Focus on enterprise clients with existing Microsoft ecosystem",
+        "Potential impact on mid-market legal tech vendors"
+      ],
+      "relevance_score": "high",
+      "tags": ["microsoft", "enterprise-ai", "legal-tech", "document-analysis", "azure"]
+    },
+    {
+      "id": 4,
+      "headline": "Case Study: Combining AI with Deep Discovery Expertise to Enhance Legal Defensibility",
+      "source": "Kroll",
+      "source_url": "https://www.kroll.com/en/insights/publications/cyber-risk/ai-discovery-expertise-legal-defensibility",
+      "published_date": "2026-05-05",
+      "category": "Case Study",
+      "summary": "Kroll publishes a detailed case study demonstrating how the combination of AI-powered tools and experienced discovery professionals can improve both efficiency and defensibility in complex litigation matters.",
+      "key_points": [
+        "Human-AI collaboration yields better outcomes than either alone",
+        "Defensibility requires documented AI decision-making processes",
+        "Quality control workflows essential for court acceptance",
+        "Real-world metrics showing 40% efficiency gains with maintained accuracy"
+      ],
+      "relevance_score": "medium",
+      "tags": ["case-study", "ai-defensibility", "kroll", "best-practices", "quality-control"]
+    },
+    {
+      "id": 5,
+      "headline": "The Real Reason Lawyers Don't Trust AI (Hint: It's Not Hallucinations)",
+      "source": "Lexology",
+      "source_url": "https://www.lexology.com/library/detail.aspx?g=real-reason-lawyers-dont-trust-ai",
+      "published_date": "2026-04-24",
+      "category": "Industry Analysis",
+      "summary": "A thought-provoking analysis challenging the common assumption that AI hallucinations are the primary barrier to lawyer adoption. The article explores deeper issues of professional identity, liability concerns, and the fundamental nature of legal work.",
+      "key_points": [
+        "Trust issues stem from professional responsibility concerns more than technical accuracy",
+        "Lawyers fear liability exposure from AI recommendations they can't fully verify",
+        "The profession's billable hour model creates misaligned incentives for AI adoption",
+        "Suggestions for building trust through transparency and audit trails"
+      ],
+      "relevance_score": "medium",
+      "tags": ["ai-trust", "legal-profession", "liability", "adoption-barriers", "analysis"]
+    }
+  ],
+  "trending_topics": [
+    "Generative AI in document review",
+    "AI defensibility and quality control",
+    "Small firm access to e-discovery tools",
+    "Microsoft enterprise legal AI",
+    "Professional trust and AI adoption"
+  ],
+  "sources_checked": [
+    "Law.com",
+    "PR Newswire",
+    "ABA Journal",
+    "Kroll",
+    "Lexology",
+    "Google News (eDiscovery queries)"
+  ],
+  "metadata": {
+    "workflow": "eDiscovery Daily Newsletter",
+    "generated_by": "Helix-7",
+    "edition": "Evening Edition - 6PM ET"
+  }
+}
